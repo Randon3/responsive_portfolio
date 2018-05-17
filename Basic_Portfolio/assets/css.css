@@ -1,0 +1,160 @@
+
+.header {
+        background-color: white;
+        margin: 0 auto;
+        width: 96%;
+	padding: 40px;
+        font-size: 30px;
+        color: white;
+        border-bottom: 2px solid gray;
+}
+.logo {
+        float: left;
+        background-color: #4aaaa5;
+        top: 0%;
+        height: 75px;
+        position: absolute;
+        margin-left: 113px;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 25pt;
+    color: #4aaaa5;
+    border-bottom: 2px solid gray;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.active1 {
+        float: right;
+        font-size: 12pt;
+        padding: 5px;
+        border-right: 1px solid lightgray;
+        position: absolute;
+        left: 75%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.active2 {
+        float: right;
+        font-size: 12pt;
+        padding: 5px;
+        border-right: 1px solid lightgray;
+        position: absolute;
+        left: 81%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.active3 {
+        float: right;
+        font-size: 12pt;
+        padding: 5px;
+        border-right: 1px solid lightgray;
+        position: absolute;
+        left: 70%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+        background-color: lightgray;
+}
+
+img {
+        float: left;
+}
+
+.container {
+        width: 960px;
+        margin: 0 auto;
+        background-color: white;
+        padding: 50px;
+        font-size: 18pt;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.container1 {
+        width: 960px;
+        margin: 0 auto;
+        background-color: white;
+        padding: 50px;
+        font-size: 18pt;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.project1 {
+        position: absolute;
+        left: 33%;
+        top: 30%;
+}
+.project2 {
+        position: absolute;
+        left: 50%;
+        top: 30%;
+}
+.project3 {
+        position: absolute;
+        left: 33%;
+        top: 60%;
+}
+.project4 {
+        position: absolute;
+        left: 50%;
+        top: 60%;
+}
+.project5 {
+        position: absolute;
+        left: 33%;
+        top: 90%;
+}
+
+
+footer {
+        background-color: gray;
+        margin: 0 auto;
+        width: 100%;
+        padding: 15px;
+        border-top: 2px solid #4aaaa5;
+        font-size: 8px;
+        color: white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        position: fixed;
+        bottom: 1px;
+}
+input[type=text] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+    }
+input[type=submit] {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.project {
+        position: relative;
+        width: 150px;
+
+}
+.project a {
+        position: absolute;
+        left: 0%;
+        top: 100px;
+        background-color: gray;
+        width: 100%;
+
+}
+
+.imagelabel {
+        position: absolute;
+        top: 75%;
+        left: 0;
+        color: white;
+        background-color: #4aaaa5;
+        font-size: 10pt;
+}
+
